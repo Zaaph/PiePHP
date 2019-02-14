@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /PiePHP/Core/
+Allow: /PiePHP/src/View/index.php
+Disallow: /PiePHP/src/
+Disallow: /PiePHP/webroot/
+Disallow: /PiePHP/.git/
+Disallow: /PiePHP/routes.php
+Disallow: /PiePHP/.htaccess
+Disallow: /PiePHP/config.json
